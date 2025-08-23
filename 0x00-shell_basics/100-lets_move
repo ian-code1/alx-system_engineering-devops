@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir -p /tmp/u
+mv [[:UPPER:]]* /tmp/u
+
